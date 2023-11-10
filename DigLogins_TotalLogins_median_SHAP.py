@@ -23,7 +23,7 @@ import plotly.graph_objs as go
 pio.renderers.default='browser'
 
 ## Updating the Directory and just running the Entire Script should work 
-os.chdir("C:/Users/Riddhi/Downloads/FNBO")
+os.chdir("C:/Users/Riddhi/Downloads/")
 
 
 
