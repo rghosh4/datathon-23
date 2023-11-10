@@ -34,7 +34,7 @@ import re
 
 
 # Updating the Directory and Reading the Data
-os.chdir("C:/Users/Riddhi/Downloads/FNBO")
+os.chdir("C:/Users/Riddhi/Downloads/")
 df = pd.read_excel('dataton_2023_version2.xlsx')
 
 #df.info()
