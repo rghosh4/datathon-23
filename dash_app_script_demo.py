@@ -35,7 +35,7 @@ import re
 
 # Updating the Directory and Reading the Data
 os.chdir("C:/Users/Riddhi/Downloads/")
-df = pd.read_excel('dataton_2023_version2.xlsx')
+df = pd.read_excel('dataton_data.xlsx')
 
 #df.info()
 #rows_with_nan_df = df[df.isna().any(axis=1)]
