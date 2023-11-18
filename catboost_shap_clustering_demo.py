@@ -28,7 +28,7 @@ os.chdir("C:/Users/Riddhi/Downloads/")
 
 
 # Load the dataset
-df = pd.read_excel('dataton_2023_version2.xlsx')
+df = pd.read_excel('datathon_data.xlsx')
 #df.info()
 #rows_with_nan_df = df[df.isna().any(axis=1)]
 # Obtain rows with NaN values in the specified columns
